@@ -599,3 +599,37 @@ cd Elizabeth
 git branch
 git status
 git log
+clear
+sudo usermod -aG docker ubuntu
+apt install git
+sudo apt install git
+which git
+git status
+git init
+git status
+git add *
+git status
+git add .
+git status
+git commit . -m " update files"
+git status
+git branch
+ls
+git log
+clear
+git remote -v
+mkdir python
+ls
+cd python
+ls
+git@github.com:lyzakarr/my-simple-python-application.git
+clone git@github.com:lyzakarr/my-simple-python-application.git
+git init
+clone https://github.com/cmuriukin/my-simple-python-application.git
+clone git@github.com:cmuriukin/my-simple-python-application.git
+cd ..
+clone git@github.com:cmuriukin/my-simple-python-application.git
+cd python
+git clone git@github.com:cmuriukin/my-simple-python-application.git
+git clone git@github.com:lyzakarr/my-simple-python-application.git
+exit
