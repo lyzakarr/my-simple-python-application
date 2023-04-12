@@ -1,0 +1,2 @@
+This is a test file to know how to copy a file from a docker container to a location in ur local machine and vise versa. As such the path should be taken into considerstion. E.g [docker cp testfile-copy web-server:/root]. 
+This copies the file.testfile-copy from the docker container named, web-server into the root directry of the local machine.
