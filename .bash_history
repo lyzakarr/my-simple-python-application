@@ -633,3 +633,127 @@ cd python
 git clone git@github.com:cmuriukin/my-simple-python-application.git
 git clone git@github.com:lyzakarr/my-simple-python-application.git
 exit
+which git
+git status
+git branch
+sudo apt get git
+sudo apt-get git
+sudo apt-get git install
+sudo apt update git
+sudo git update
+git --help
+git log
+git pull
+git status
+git add .
+git commit . -m " first commit"
+git config --global --edit
+git commit --amend --reset-author
+git push
+git remote add origin
+git remote add git@github.com:lyzakarr/My_Simple_Python_Application.git
+git push  --set-upstream origin main
+git status
+git add .gitconfig python/
+git add .gitconfig 
+git status
+git commit -m " commit to config file "
+git status
+git add python/
+git add python
+git status
+git add .
+git add
+git add .
+git commit python -m " commit to python file "
+git log
+git status
+git add python
+git add python/
+git commit python/ -m " commit to file "
+git rm python
+git rm python/
+git checkout python
+git checkout python/
+git reset  python
+git status
+git reset python
+git status
+git branch
+git remove python
+git remove python/
+git remote remove python/
+git remote remove python
+git status
+git push python
+git status
+git checkout
+git branch
+git checkout python
+git@github.com:lyzakarr/My_Simple_Python_Application.git
+remote add origin git@github.com:lyzakarr/My_Simple_Python_Application.git
+sudo snap install remote
+remote add origin git@github.com:lyzakarr/My_Simple_Python_Application.git
+git@github.com:lyzakarr/My_Simple_Python_Application.git
+git clone git@github.com:lyzakarr/my-simple-python-application.git
+git clone git@github.com:cmuriukin/my-simple-python-application.git
+git clone https://github.com/cmuriukin/my-simple-python-application.git
+git push 
+git push https://github.com/cmuriukin/my-simple-python-application.git
+git status
+git add .
+git status
+git add my-simple-python-application
+git status
+git add pyhton
+git rm python -r
+git rm -f python
+git add snap
+git status
+git commit -m " actuall commits to files "
+git status
+git reset python
+git status
+ls
+cd python
+ls
+rm python
+cd ..
+rm python
+rm -r python
+ls
+rm -f python
+cat pyhton
+ls -la pyhton
+ls -la python
+git add python
+git status
+cat .git
+cd .git
+ls
+cd ..
+cd python
+ls
+ll
+git add python
+cd ..
+ll
+eixt
+sudo su -l
+ll
+git status
+git checkout main
+git checkout branch masterr
+git checkout branch master
+git add python ...
+git add to track
+git add python to track
+git add python
+git add ...
+git add .
+git push https://github.com/cmuriukin/my-simple-python-application.git
+git clone https://github.com/lyzakarr/my-simple-python-application.git
+git push my-simple-python-application.git
+ls
+sudo apt upgrade jenkins
+jenkins --version
