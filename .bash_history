@@ -794,3 +794,32 @@ ls
 git remote -v
 ll
 logout
+ll
+rm my-simple-python-application -f
+rm -rf my-simple-python-application 
+ll
+git remote -v
+git remote add origin git@github.com:lyzakarr/my-simple-python-application.git
+git remote -v
+git status
+git add .
+git status
+git commit -m ' modify bash history'
+git status
+git push
+git push --set-upstream origin master
+ll
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/lyzakarr/my-simple-python-application.git
+git remote -v
+git status
+git push
+git push --set-upstream origin master
+ls
+ssh-add -l
+cd ..
+cd 
+cd/
+cd ..
+exit
