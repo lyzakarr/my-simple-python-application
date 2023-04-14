@@ -757,3 +757,40 @@ git push my-simple-python-application.git
 ls
 sudo apt upgrade jenkins
 jenkins --version
+cs .ssh/
+cd .ssh/
+ls
+ssh-keygen
+cd 
+git clone git@github.com:lyzakarr/my-simple-python-application.git
+ls
+cd my-simple-python-application 
+ll
+cd 
+rm -r my-simple-python-application 
+ls
+rm  my-simple-python-application 
+rm  my-simple-python-application -rf
+ls
+rm python -rf
+ls
+git status
+git commit -m ' deleted repo '
+git commit -m  "deleted repo" 
+git commit -a
+which vim
+git commit -m "repo deleted "
+git add .
+git status
+git commit -m "delete repo"
+git status
+git clone git@github.com:lyzakarr/my-simple-python-application.git
+git clone https://github.com/lyzakarr/my-simple-python-application.git
+git push
+sudo su -l
+cat /etc/passwd jenkins
+cat /etc/passwd lyzakarr
+ls
+git remote -v
+ll
+logout
