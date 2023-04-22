@@ -21,6 +21,18 @@ jobs:
         uses: docker/metadata-action@v4.4.0
         with:
          images: lyzakarr/github-actions-repo
+      
+      - name: Buile and Push the Docker image
+        uses: docker/build-push-action@v4.0.0
+        with: 
+          context: .
+          push: true
+          tags: ${{ steps.meta.output.tag }}
+          
+      
+         
+         
+         
        
           
 
